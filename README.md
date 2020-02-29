@@ -1,9 +1,9 @@
 # Mikrotik travel router 
 
-Brand: **Mikrotik**
-Operating system: **Routerboard**
-Market model: **hAP AC Lite**
-Technical model: **RB95ZUi-5acZnD**
+  - Brand: **Mikrotik**
+  - Operating system: **Routerboard**
+  - Market model: **hAP AC Lite**
+  - Technical model: **RB95ZUi-5acZnD**
 
 ### Mikrotik configuration for a travel router
 
