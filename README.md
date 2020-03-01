@@ -14,3 +14,5 @@ The rationale behind this project is to have a single router that can provide se
 A secure remote connection is stablished with a remote endpoint using both L2TP + IPSec and OpenVPN. The rationale for this is to try connecting both VPN endpoint expecting, worst case scenario, at least one of them will manage to get connected, so, providing secure (tunneled) access to a controled remote endpoint to flow local traffic trought.
 
 Hope this results useful, like it is to me.
+
+## LAST UPDATED: 2020 - 03 - 01
